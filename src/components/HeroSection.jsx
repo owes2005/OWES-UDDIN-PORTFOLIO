@@ -44,7 +44,7 @@ export const HeroSection = () => {
               View My Work
             </a>
             <a
-              href="https://drive.google.com/file/d/1w-aLsRd2qoRQWeg8q83FX5Q8qyCzP5oP/view?usp=sharing"
+              href="https://drive.google.com/file/d/1bkexIgZ_oL4uz3Q32AwwMnf4TAQPaQhm/view?usp=sharing"
               className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
             >
               Resume

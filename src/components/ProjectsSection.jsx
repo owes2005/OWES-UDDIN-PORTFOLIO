@@ -13,7 +13,7 @@ const projects = [
   },
   {
     id: 2,
-   title: "AI Stock Analyzer",
+   title: "AI Stock Span Visualizer",
   description: "A web platform for in-depth stock analysis, featuring data visualization, sentiment intelligence, and an interactive AI assistant.",
   image: "/projects/project2.png",
   tags: ["Python", "Next.js", "Pandas", "Scikit-learn"],

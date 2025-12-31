@@ -3,13 +3,14 @@ import { cn } from "@/lib/utils";
 
 const skills = [
   // Languages
-  //{ name: "C", level: 60, category: "languages" },
+  { name: "C", level: 40, category: "languages" },
   { name: "C++", level: 40, category: "languages" },
   { name: "Python", level: 70, category: "languages" },
   { name: "Java", level: 55, category: "languages" },
   { name: "HTML", level: 80, category: "languages" },
   { name: "CSS", level: 75, category: "languages" },
-  { name: "JavaScript", level: 72, category: "languages" },
+  { name: "JavaScript", level: 75, category: "languages" },
+  { name: "TypeScript", level: 60, category: "languages" },
 
   // Frameworks & Libraries
   { name: "Bootstrap", level: 70, category: "frameworks-libraries" },
@@ -31,7 +32,7 @@ const skills = [
   { name: "Render", level: 65, category: "tools" },
   { name: "Netlify", level: 70, category: "tools" },
   { name: "Vercel", level: 75, category: "tools" },
-  { name: "PostgreSQL", level: 20, category: "tools" },
+  { name: "PostgreSQL", level: 10, category: "tools" },
 ];
 
 const categories = ["languages", "frameworks-libraries", "tools"];
